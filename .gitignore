@@ -1,0 +1,10 @@
+RemoteSystemsTempFiles
+Servers
+ECBraintreeSDK/build/classes/.gitignore
+ECBraintreeSDK/build/classes/*.jar
+.metadata/
+ECBraintreeSDK/.classpath
+ECBraintreeSDK/.project
+ECBraintreeSDK/.settings/
+/bin/
+/target/
